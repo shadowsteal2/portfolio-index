@@ -1,6 +1,4 @@
-# portfolio-index
-
-\# Martí Vidal — Data Analyst Portfolio
+# Martí Vidal — Data Analyst Portfolio
 
 
 
